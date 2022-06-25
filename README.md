@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nabila-Hashim
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data Proceeing Projects
+- 💞️ I’m looking to collaborate on Data Processing Projects
 - 📫 How to reach me nabila.mhss@gmail.com
 
 <!---
